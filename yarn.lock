@@ -1172,10 +1172,6 @@ fastparse@^1.1.1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/fastparse/-/fastparse-1.1.1.tgz#d1e2643b38a94d7583b479060e6c4affc94071f8"
 
-fibers@>=1.0.1:
-  version "1.0.15"
-  resolved "https://registry.yarnpkg.com/fibers/-/fibers-1.0.15.tgz#22f039c8f18b856190fbbe4decf056154c1eae9c"
-
 file-loader@^0.10.0:
   version "0.10.1"
   resolved "https://registry.yarnpkg.com/file-loader/-/file-loader-0.10.1.tgz#815034119891fc6441fb5a64c11bc93c22ddd842"
@@ -3566,12 +3562,6 @@ vuex-router-sync@^4.1.2:
 vuex@^2.2.1:
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/vuex/-/vuex-2.2.1.tgz#a42d0ce18cb0e0359258f84bfd76835ed468c185"
-
-wait.for@~0.6.6:
-  version "0.6.6"
-  resolved "https://registry.yarnpkg.com/wait.for/-/wait.for-0.6.6.tgz#0cc9079ce0680a80545e2ec9bb7a693a16e07504"
-  dependencies:
-    fibers ">=1.0.1"
 
 watchpack@^1.2.0:
   version "1.3.1"
